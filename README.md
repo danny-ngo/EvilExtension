@@ -1,4 +1,18 @@
-# HW2: Personality quiz; Chrome extension 
+# EvilExtension
+Chrome extension that traverses the DOM tree, interchanging instances of "there", "their", and "they're".
+This is the second part of assignment 2 of Stanford University's CSX-193.
+
+## Run instructions:
+- Download/clone repository
+- Open Google Chrome and go to (chrome://extensions/)
+- Enable developer mode
+- Load unpacked extension, and select the EvilExtension directory
+- Enable the EvilExtension
+- Go to any website, then click on the extension's icon
+
+------------------------------------------------------------------------------------------------------------------------------
+
+## HW2: Personality quiz; Chrome extension 
 
 You are required to complete two parts of the assignment:
 
